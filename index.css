@@ -41,6 +41,14 @@ body {
     background-color: whitesmoke;
 }
 
+.left-info {
+
+}
+
+.right-info {
+
+}
+
 .links {
     display: flex;
     
@@ -48,8 +56,6 @@ body {
 
 .links > li {
     display: inline-flex,
-    top: 10px;
-    left: 50px;
 }
 
 a {
@@ -73,7 +79,6 @@ a {
 
 footer {
     background-color: white;
-    width: ;
     height: 200px;
     display: flex;
 
