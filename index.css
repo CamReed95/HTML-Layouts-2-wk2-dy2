@@ -68,8 +68,8 @@ a {
     
 }
 
-.bg-1 {
-    background-image: url("./media/Afternoon Project LMS wk2-dy2.png");
+.Screenshot {
+    image: url("./media/Afternoon Project LMS wk2-dy2.png");
     background-position: bottom;
     display: flex;
 }
